@@ -1,4 +1,4 @@
-MYSQL_HOST: mysql-backend.devaws.fun
+#MYSQL_HOST: mysql-backend.devaws.fun
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCATION: /app
